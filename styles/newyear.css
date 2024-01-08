@@ -1,0 +1,68 @@
+ /* common styles*/
+
+ body{
+   font-family: 'Open Sans', sans-serif;
+ }
+   
+ /* header related styles*/
+
+ .banner{
+    text-align: center;
+    position: relative;
+    width: 100%;
+    margin: o auto;
+}
+ 
+ .img1{
+    border-radius:15px;
+    background-blend-mode:darken;
+ }
+ 
+
+ .heading2{
+    color: whitesmoke;
+    position: absolute;
+    top: 37%;
+    width: 100%;
+    text-align: center;
+    font-size 48px;
+ }
+   .heading1 {
+    color: whitesmoke;
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    font-size: 60px;
+   }
+   /* main */
+     
+   .banner2{ 
+    text-align: center;
+   }
+   .heading3{
+     color: red;
+     font-size: 80px;
+     margin-bottom: 25px;
+   }
+   .heading4{
+    color: #FF0000;
+    font-size: 20px;
+    margin-bottom: 5px;
+   }
+   .heading5{
+     color: black;
+     font-size: 40px;
+     margin-top: 3px;
+   }
+   
+
+
+   
+    
+    
+   
+   
+   
+    
+   
