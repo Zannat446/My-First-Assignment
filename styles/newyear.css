@@ -2,6 +2,7 @@
 
  body{
    font-family: 'Open Sans', sans-serif;
+   
  }
    
  /* header related styles*/
@@ -55,6 +56,59 @@
      font-size: 40px;
      margin-top: 3px;
    }
+   
+   .banner3{
+    height: 450px;
+    background-image: url("Vectorrr.png");
+    background-repeat: no-repeat;
+    background-position: cover;
+    margin-left: 400px;
+    background-size: 800px;
+    background-blend-mode: darken;
+   }
+   .banner4{
+      display: flex;
+   }
+   .heading6{
+     color: white;
+     font-size: 26px;
+     padding-top: 100px;
+     padding-left: 50px;
+   }
+   .heading7{
+    color: white;
+    padding-left: 50px;
+    
+   }
+   p{
+     color: white;
+     font-size: 12px;
+     padding-left: 50px;
+   }
+   .btn{
+    margin-left: 50px;
+    display: flex;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 15px;
+    border-radius: 5px;
+    background:black ;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    color:grey ;
+}
+.btn:hover{
+    color: antiquewhite;
+}
+
+    
+
+
+
+    
+   }
+   
    
 
 
