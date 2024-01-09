@@ -66,9 +66,8 @@
     background-size: 800px;
     background-blend-mode: darken;
    }
-   .banner4{
-      display: flex;
-   }
+   
+   
    .heading6{
      color: white;
      font-size: 26px;
@@ -85,7 +84,7 @@
      font-size: 12px;
      padding-left: 50px;
    }
-   .btn{
+   .btn1{
     margin-left: 50px;
     display: flex;
     font-weight: bold;
@@ -98,16 +97,52 @@
     text-decoration: none;
     color:grey ;
 }
-.btn:hover{
+.btn1:hover{
     color: antiquewhite;
 }
+.banner4{
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%); 
+    width:800px;
+    height:300px;
+    margin-left: 26%;
+}
+.heading8{
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: auto;
+
+}
+ .heading9{
+  text-align: center;
+ 
+ }
+ .heading10{
+  text-align: center;
+ }
+ .btn2{
+  margin-top: 60px;
+  margin-left: 45%;
+  font-weight: bold;
+  font-family:sans-serif ;
+  font-size: 18px;
+  text-decoration: none;
+  background-color: tomato;
+  color: white;
+  border-radius: 5px;
+ }
+ .btn2:hover{
+  color: burlywood;
+ }
+
+
+ }
 
     
 
 
 
     
-   }
+   
    
    
 
